@@ -10,5 +10,16 @@
   top: 50%;
   width:100%;
   left: 0;
-  transform: translateY (-100%);
+  transform: translateY(-50%);
 }
+ .large-hero h1 {
+  font-weight: 300;
+  color: #2f5572;
+  font-size: 4.8rem;
+ }
+.large-hero h2 {
+  font-weight: 300;
+  color: #2f5572;
+  font-size: 2.9rem;
+}
+  
