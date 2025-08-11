@@ -1,0 +1,14 @@
+.large-hero {
+  color: #333;
+  font-family: 'roboto', sans-serif;
+  position: relative;
+}
+
+.large-hero__text-content {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width:100%;
+  left: 0;
+  transform: translateY (-100%);
+}

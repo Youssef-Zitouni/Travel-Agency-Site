@@ -1,0 +1,8 @@
+body {
+    font-family: 'roboto', sans-serif;
+    color: #333;
+}
+img {
+    height: auto;
+    max-width: 100%;
+}
