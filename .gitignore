@@ -12,6 +12,11 @@
 node_modules/
 .tmp/
 
+# Ignore one file
+Software development Projects.code-workspace
+package-lock.json
+
+
 # OS or Editor folders
 .DS_Store
 Thumbs.db
